@@ -1,5 +1,5 @@
 public class Main {
 	public static void main(String[] args) {
-		System.out.println("≥ª∞° πÈ¡ÿ 1µÓ¿Ã¥Ÿ!");
+		System.out.println("Î∞îÎ≥¥");
 	}
 }
